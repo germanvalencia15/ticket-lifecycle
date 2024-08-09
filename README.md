@@ -27,10 +27,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2024-08-08 133404](https://github.com/user-attachments/assets/912986e9-48b8-4e32-a497-bd9ed891d185)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is an open ticket, I changed the priority from normal to emergency and the SLA plan was changed to SEV-A which it the higest.  This type of ticket would affect overall business and is extremely important this gets resolved immediately. 
 </p>
 <br />
 
