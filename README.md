@@ -62,3 +62,10 @@ In this image above I changed the dept from support to System Administrators, as
 
 
 Here you can see the communication, ticket notes, and status updates between depts. 
+
+
+
+![image](https://github.com/user-attachments/assets/0afb1f5a-8d7b-4656-854a-342183980274)
+
+
+Here you can see more communication in the ticket log and issue was worked on and restored.  
