@@ -76,3 +76,13 @@ Here you can see more communication in the ticket log and issue was worked on an
 
 Here is another example where I changed the SLA, the agent, and priority from normal to high.  Also you can see I added notes for a warm hand off.
 
+
+
+![image](https://github.com/user-attachments/assets/a7dea96b-2ee3-42ac-a5ff-18fe33e2c4c2)
+
+
+
+This last ticket above was reassigned and as you can see by the notes was worked on and resolved. 
+
+
+
