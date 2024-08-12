@@ -56,3 +56,9 @@ Here you can see the open ticket inbox with new open tickets that have not been 
 In this image above I changed the dept from support to System Administrators, assinged to German V and also changed SLA to SEV-A which is the highest setting since this is business critical. 
 </p>
 <br />
+
+
+![image](https://github.com/user-attachments/assets/e8575df5-0758-42db-8b6a-f0b60fe65a5a)
+
+
+Here you can see the communication, ticket notes, and status updates between depts. 
