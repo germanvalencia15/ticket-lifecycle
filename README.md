@@ -69,3 +69,10 @@ Here you can see the communication, ticket notes, and status updates between dep
 
 
 Here you can see more communication in the ticket log and issue was worked on and restored.  
+
+
+![image](https://github.com/user-attachments/assets/4358a818-baa2-468a-aabd-8e04d95915b1)
+
+
+Here is another example where I changed the SLA, the agent, and priority from normal to high.  Also you can see I added notes for a warm hand off.
+
