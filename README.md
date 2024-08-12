@@ -85,4 +85,11 @@ Here is another example where I changed the SLA, the agent, and priority from no
 This last ticket above was reassigned and as you can see by the notes was worked on and resolved. 
 
 
+![image](https://github.com/user-attachments/assets/c9eb7ff7-c507-4721-be68-b3d7114a6d65)
+
+
+As you can see above in the open ticket inbox all tickets have been reassigned or resolved.  No open tickets left. 
+
+
+
 
