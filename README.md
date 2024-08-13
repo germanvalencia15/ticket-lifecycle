@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Here in this step I'm pretending to be an end user Ken and I've just created and submitted and ticket. 
+Here in this step I'm pretending to be an end user Ken and I've just created and submitted a ticket. 
 </p>
 <br />
 
@@ -43,7 +43,7 @@ Here in this step I'm pretending to be an end user Ken and I've just created and
 
 </p>
 <p>
-Here you can see the open ticket inbox with new open tickets that have not been worked or reassigned. 
+Here you can see the open ticket inbox with new open tickets that have not been worked on or reassigned. 
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Here you can see the communication, ticket notes, and status updates between dep
 ![image](https://github.com/user-attachments/assets/0afb1f5a-8d7b-4656-854a-342183980274)
 
 
-Here you can see more communication in the ticket log and issue was worked on and restored.  
+Here you can see more communication in the ticket log and the issue was worked on and restored.  
 
 
 ![image](https://github.com/user-attachments/assets/4358a818-baa2-468a-aabd-8e04d95915b1)
